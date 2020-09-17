@@ -17,6 +17,6 @@ My life goal is to achieve great success in the IT-field by my own efforts.
 You can find a small example of my code [here](https://github.com/AdukarIT/ScherbakovRS)
 ## Experience
 My HTMLAcademy account [*click*](https://htmlacademy.ru/profile/id1155871)
-##Education
+## Education
 BSUIR - Engineer of radioelectronics *(2017-2021)*
-##My English level is between A2 and B1. 
+## My English level is between A2 and B1. 
