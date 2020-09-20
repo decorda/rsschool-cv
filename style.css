@@ -1,0 +1,93 @@
+* {
+    padding: 0px;
+	margin: 0px;
+	border: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+ul li {
+	list-style: none;
+}
+a,
+a:visited,
+a:hover {
+	display: inline-block;
+	color: #000;
+	text-decoration: none;
+}
+body {
+	background-color: #D5D5D5;
+}
+
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.header {
+	display: flex;
+	margin-top: 30px;
+}
+.header_info {
+	margin-left: 20px;
+}
+.header_name {
+	font-size: 50px;
+	padding: 10px 0;
+}
+.header_image {
+	width: 200px;
+	border-radius: 50%;
+}
+
+.contacts_tel {
+	margin-bottom: 20px;
+}
+.links_item {
+	width: 50px;
+	height: 50px;
+	margin-right: 15px;
+	border: 2px solid #003153;
+	border-radius: 50%;
+}
+.links_item:hover {
+	border: 2px solid #FFFAFA;
+}
+
+.links_item--email {
+	background-image: url(assets/svg/email.svg);
+}
+.links_item--vk {
+	background-image: url(assets/svg/vk.svg);
+}
+.links_item--telegram {
+	background-image: url(assets/svg/telegram.svg);
+}
+
+.skills__list {
+	display: flex;
+}
+.skills-item {
+	width: 100px;
+	height: 100px;
+	margin-left: 20px;
+}
+.skills-item--git {
+	border-radius: 50%;
+}
+
+.title {
+	font-size: 30px;
+	margin: 15px 0;
+}
+
+.paragraph {
+	padding-left: 20px;
+}
+
+.account-link {
+	font-style: italic;
+}
+
+span {
+	color: #E32636;
+}
