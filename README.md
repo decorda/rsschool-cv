@@ -1,1 +1,1 @@
-https://devourercorda.github.io/rsschool-cv/
+https://devourercorda.github.io/rsschool-cv/cv
